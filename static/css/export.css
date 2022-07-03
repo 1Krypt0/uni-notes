@@ -44,3 +44,7 @@ input.form-checkbox.checked {
 .done {
     color:rgb(0, 0, 0);
 }
+
+.recent {
+    display: none;
+}
